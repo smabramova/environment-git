@@ -1,0 +1,15 @@
+{
+  "name": "smabramovaa",
+  "version": "1.0.0",
+  "description": "Это репозиторий для студентов Хекслет Колледжа первого курса 2023-го года. Нужен для отработки настройки окружения и отработки простых git-команд",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
